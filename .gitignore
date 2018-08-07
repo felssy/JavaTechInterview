@@ -3,6 +3,13 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+/build/
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+*.iws
+*.ipr
 
 # Other files and folders
 .settings/
